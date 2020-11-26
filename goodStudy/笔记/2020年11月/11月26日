@@ -1,0 +1,12 @@
+```bash
+# 全局安装 vue-cli
+$ cnpm install --global vue-cli
+# 创建一个基于 webpack 模板的新项目
+$ vue init webpack my-project
+
+#进入目录
+$ cd my-project
+$ cnpm install
+$ cnpm run dev   #运行
+```
+
